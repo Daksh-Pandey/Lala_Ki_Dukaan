@@ -1,6 +1,13 @@
-# lalakidukaan_app
+# Lala_Ki_Dukaan
+### Tech-stack:
+* Frontend:
+  * Cross platform application using Dart and Flutter
+* Backend:
+  * mysql-connector-python
+  * MySQL
+  * Flask API returning data from a MySQL database
 
-A new Flutter project.
+Course project for the course Database Management Systems (DBMS) at IIITD.
 
 ## Getting Started
 
